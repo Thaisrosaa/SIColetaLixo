@@ -1,2 +1,2 @@
 # SIColetaLixo
-Repositório criado para guardar documentos de Engenharia de Software
+Repositório criado para guardar documentos de Engenharia de Software do projeto.
